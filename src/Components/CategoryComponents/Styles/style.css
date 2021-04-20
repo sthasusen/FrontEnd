@@ -1,0 +1,39 @@
+.inner{
+    overflow: hidden;
+}
+.inner img{
+    transition: all 1.5s ease;
+}
+.inner:hover img{
+    transform: scale(1.5);
+}
+.container{
+    margin-top: 8%;
+
+}
+#btnName{
+    color: cornsilk;
+    border-radius: 10px;
+}
+.subcategory{
+    width:20%;
+    /*height: 50px;*/
+    /*padding-right: 20%;*/
+    margin-right: 0%;
+}
+.font{
+    color: cornsilk;
+}
+
+body{padding-top:30px;}
+
+.glyphicon {  margin-bottom: 10px;margin-right: 10px;}
+
+small {
+    display: block;
+    line-height: 1.428571429;
+    color: #999;
+}
+
+
+
